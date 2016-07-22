@@ -20,4 +20,4 @@ Just do what you need to do when you are using a button
 
 ## API
 
- <img src="http://a3.qpic.cn/psb?/V11nMvcA1OpCIy/mo*yAFMem0gD16*DFNT1TcKbtFVmsPc5mHERsuFZRxg!/b/dK0AAAAAAAAA&bo=GwPcAAAAAAADB.Y!&rf=viewer_4" width="49%">
+ <img src="http://a3.qpic.cn/psb?/V11nMvcA1OpCIy/mo*yAFMem0gD16*DFNT1TcKbtFVmsPc5mHERsuFZRxg!/b/dK0AAAAAAAAA&bo=GwPcAAAAAAADB.Y!&rf=viewer_4" width="70%">

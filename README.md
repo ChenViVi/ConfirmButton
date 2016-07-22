@@ -18,10 +18,6 @@ Just do what you need to do when you are using a button
       android:orientation="vertical" />
 ```
 
-API
-======================
-Type | Name | Param | Description
---- | --- | ---
-void | setCurrentState(int) | <br>ConfirmButton.STATE_DONE <br/> ConfirmButton.STATE_DONE | set current state
-void | setConfirmText(String) | | set text to be dispaly on state confirm
-void | setDoneText(String) |  | set text to be dispaly on state done
+## API
+
+ <img src="http://a3.qpic.cn/psb?/V11nMvcA1OpCIy/mo*yAFMem0gD16*DFNT1TcKbtFVmsPc5mHERsuFZRxg!/b/dK0AAAAAAAAA&bo=GwPcAAAAAAADB.Y!&rf=viewer_4" width="49%">
